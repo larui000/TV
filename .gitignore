@@ -8,3 +8,6 @@
 lib-*.aar
 /Release
 /docs
+
+#local keystore/signing config (do not commit)
+local.properties
